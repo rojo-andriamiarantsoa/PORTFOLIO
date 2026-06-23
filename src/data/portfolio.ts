@@ -6,7 +6,7 @@ export const personalInfo = {
   tagline: "De la science à l'impact - Pharma · Qualité · Entrepreneuriat",
   email: "roojfanam@gmail.com",
   phone: "+33 6 16 02 98 31",
-  address: "2 Rue Paul Arène, Meaux (77100)",
+  address: "Île de France",
   bio: `Bioentrepreneure et future diplômée d'un Master 2 en Sciences du Médicament et des Produits de Santé, Parcours Bioentrepreneurs (Université Paris Cité), je me situe à l'intersection de la science pharmaceutique, du développement business et de l'innovation santé.
 
 Mon parcours est celui d'une professionnelle qui construit avec méthode : des bases scientifiques solides en pharmacologie et industries pharmaceutiques (ISPM), une formation spécialisée en Assurance Qualité et Contrôle Qualité des médicaments et produits de santé (Université de Liège, bourse ARES), une expérience de consultante en financement de l'innovation santé chez Axinnov (CIR/CII/JEI), et une expérience entrepreneuriale concrète avec la création de Hay Natiora SARLU.
@@ -272,7 +272,7 @@ export const references = [
   {
     name: "Helga RIM FARASOA, PhD",
     role: "Directrice",
-    institution: "LC VPN",
+    institution: "LCVPN",
     email: "rimfarasoahelga@gmail.com",
   },
 ]
